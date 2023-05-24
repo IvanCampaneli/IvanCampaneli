@@ -14,9 +14,9 @@ I recognize the significance of these experiences and how they have prepared me 
 
 ## Languages and Technologies preference:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivancampaneli&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanCampaneli&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivancampaneli&layout=compact)](https://github.com/ivancampaneli/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCampaneli&layout=compact)](https://github.com/ivancampaneli/github-readme-stats)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
