@@ -11,7 +11,6 @@ I recognize the significance of these experiences and how they have prepared me 
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white_)](https://github.com/IvanCampaneli)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-ranieri-campaneli-junior-456221266/)
-[![MicrosoftOutlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/mail/0/?actSwt=true)
 
 ## Languages and Technologies preference:
 
