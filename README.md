@@ -12,7 +12,7 @@ I recognize the significance of these experiences and how they have prepared me 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white_)](https://github.com/IvanCampaneli)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-ranieri-campaneli-junior-456221266/)
 
-## Languages and Technologies preference:
+## Languages and Frameworks preference:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCampaneli&layout=compact)](https://github.com/ivancampaneli/github-readme-stats)
 
