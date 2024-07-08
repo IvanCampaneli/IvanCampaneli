@@ -1,6 +1,4 @@
-# 	println('
-__Hello World!__
-')
+# 	println('__Hello World!__')
 
 ## Contacts:
 
