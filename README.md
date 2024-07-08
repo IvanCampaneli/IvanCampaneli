@@ -1,10 +1,5 @@
-# 	print('
+# 	println('
 __Hello World!__
-
-As a technology enthusiast, I have explored various fields before finding my calling in programming. I have a degree in Gastronomy, and my previous experience involved working as a Chef. In my most recent role, I gained valuable experience in stock management, finance, team training, and other aspects of running a successful restaurant.
-
-I recognize the significance of these experiences and how they have prepared me for my journey as a programmer. I believe that my diverse background has provided me with a unique perspective and problem-solving skills that I can bring to any project. I am eager to continue learning and growing in this field, and I am excited about the possibilities that lie ahead.
-
 ')
 
 ## Contacts:
