@@ -1,49 +1,49 @@
-# 👋 Bem Vindos,
+# 👋 Welcome,
 
-Meu nome é Ivan Campaneli, sou desenvolvedor especializado em automações, rpa e análise de dados, com foco em criar soluções inteligentes em python que geram valor real — com eficiência, segurança e escalabilidade
+My name is Ivan Campaneli. I'm a developer specialized in automation, RPA, and data analysis, focused on building smart Python-based solutions that deliver real value — with efficiency, security, and scalability.
 
 ---
 
-## 🚀 Stacks e habilidades técnicas
+## 🚀 Tech Stack & Skills
 
-- **linguagens:**  
-  python (avançado), kotlin (intermediário), javascript (básico)
+- **languages:**  
+  Python (advanced), Kotlin (intermediate), JavaScript (basic)
 
-- **dados & etl:**  
-  pandas, numpy, scraping com selenium e beautifulsoup, manipulação de arquivos (csv, pdf, json, txt), consumo e criação de apis rest, expressões regulares, transformação e carga em sql server e oracle
+- **data & etl:**  
+  Pandas, NumPy, web scraping with Selenium and BeautifulSoup, file handling (CSV, PDF, JSON, TXT), REST API consumption and creation, regex, transformation and loading into SQL Server and Oracle
 
-- **automação & rpa:**  
-  automações completas com python, airflow, bcp, power automate, bots para processos repetitivos, geração de relatórios, integrações internas e agendamentos
+- **automation & rpa:**  
+  Full RPA solutions with Python, Airflow, BCP, Power Automate, bots for repetitive tasks, report generation, internal system integration, and scheduling
 
 - **cloud & devops:**  
-  azure, docker, github actions, versionamento com git, deploy de aplicações e automações em ambiente corporativo
+  Azure, Docker, GitHub Actions, Git version control, deployment of applications and automation in corporate environments
 
-- **frameworks & bibliotecas:**  
-  fastapi, flask, langchain, crewai, openai api
-
----
-
-## 📌 Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [ReplyShield]| Saas que analisa o tom emocional | python · angular · openai api
-| [FiraLinkClient]| Integração segura e automatizada de dados financeiros | sql server · azure key vault · python · fastapi |
-| [Bot-Binance]| Projeto completo de trading bot com integração entre frontend e backend para operação com dados da Binance. | python · js
+- **frameworks & libraries:**  
+  FastAPI, Flask, LangChain, CrewAI, OpenAI API
 
 ---
 
-## 🎯 Em busca de
+## 📌 Highlight Projects
 
-Atuar como Desenvolvedor Jr. Busco aplicar minha experiência prática em projetos reais e evoluir dentro de um time técnico colaborativo.
+| Project | Description | Technologies |
+|--------|-------------|--------------|
+| [ReplyShield](https://github.com/seu-usuario/ReplyShield) | SaaS that analyzes emotional tone before message delivery | Python · Angular · OpenAI API |
+| [FiraLinkClient](https://github.com/seu-usuario/FiraLinkClient) | Secure and automated integration of financial data | SQL Server · Azure Key Vault · Python · FastAPI |
+| [Bot-Binance](https://github.com/seu-usuario/Bot-Binance) | Full trading bot with frontend/backend integration for Binance operations | Python · JavaScript |
 
 ---
 
-## 📫 Como me encontrar
+## 🎯 Currently Seeking
+
+I’m looking for a Junior Developer position where I can apply my hands-on experience to real-world projects and grow within a collaborative tech team.
+
+---
+
+## 📫 How to Reach Me
 
 [![linkedin](https://img.shields.io/badge/linkedin-0077b5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivanrcj)  
 [![email](https://img.shields.io/badge/e--mail-grey?style=flat&logo=gmail&logoColor=white)](mailto:ivancampaneli.dev@gmail.com)
 
 ---
 
-🎯 *"Automatizar é escalar tempo, reduzir erros e aumentar impacto"*
+🎯 *"To automate is to scale time, reduce errors, and amplify impact."*
